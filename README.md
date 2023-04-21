@@ -51,6 +51,7 @@ Usage
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 Contributing
 
 Contributions are welcome! To contribute to this project, please follow these steps:
@@ -64,6 +65,7 @@ Contributions are welcome! To contribute to this project, please follow these st
 Credits
 
 This project was created by Your Chiagoziem James
+
 Contact
 
 If you have any questions or comments about this project, please feel free to contact me at chiagoziemjamesng@gmail.com.
