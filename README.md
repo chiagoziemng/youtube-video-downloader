@@ -18,27 +18,23 @@ Requirements
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
-bash
+    git clone https://github.com/chiagoziemng/youtube-video-downloader.git
 
-git clone https://github.com/chiagoziemng/youtube-video-downloader.git
+Navigate to the project directory:
 
-    Navigate to the project directory:
+    cd youtube-video-downloader
 
-bash
+Install the required packages:
 
-cd youtube-video-downloader
+    pip install -r requirements.txt
 
-    Install the required packages:
+Start the Django development server:
 
-pip install -r requirements.txt
+    python manage.py runserver
 
-    Start the Django development server:
-
-python manage.py runserver
-
-    Open your web browser and navigate to http://localhost:8000.
+Open your web browser and navigate to http://localhost:8000.
 
 Usage
 
