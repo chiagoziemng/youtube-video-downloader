@@ -22,7 +22,7 @@ Installation
 
 bash
 
-git clone https://github.com/username/youtube-video-downloader.git
+git clone https://github.com/chiagoziemng/youtube-video-downloader.git
 
     Navigate to the project directory:
 
@@ -63,7 +63,7 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 Credits
 
-This project was created by Your Name.
+This project was created by Your Chiagoziem James
 Contact
 
-If you have any questions or comments about this project, please feel free to contact me at your-email@example.com.
+If you have any questions or comments about this project, please feel free to contact me at chiagoziemjamesng@gmail.com.
